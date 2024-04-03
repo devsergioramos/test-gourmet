@@ -12,6 +12,3 @@
 
 ### [My linkedin](https://www.linkedin.com/in/sergiobarbosaramos/)
 
-### [My github](https://github.com/sergiaoprogramador)
-
-### [My Github Pages](https://sergiaoprogramador.github.io/) : Outdated
