@@ -8,7 +8,4 @@
         -  ``` composer install ```
     - And now, run project:
         -  ``` pip index.php ```
-  
-
-### [My linkedin](https://www.linkedin.com/in/sergiobarbosaramos/)
 
